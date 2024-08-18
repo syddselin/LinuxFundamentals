@@ -4,7 +4,7 @@ Bu repo, Linux hakkında başlangıç seviyesinden ileri seviyeye kadar olan bil
 
 ## İçerik Listesi
 
-### 1. Introduction to Linux
+### 1. Linux'a Giriş
 - **Linux Nedir?**
 - **Linux'un Tarihçesi**
 - **Linux Dağıtımları (Distributions)**
